@@ -1,0 +1,15 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# VS Code workspace metadata
+.vscode/
+.qodo/
+
+# Node / tooling (if added later)
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
