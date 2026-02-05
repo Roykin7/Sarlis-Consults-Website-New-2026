@@ -513,7 +513,7 @@ footer { padding: 2rem 5%; background: var(--surface); border-top: 1px solid rgb
 .footer-brand { font-size: 1.8rem; font-weight: 700; background: var(--gradient-1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 1rem; }
 .footer-desc { color: var(--text-muted); line-height: 1.8; margin-bottom: 1rem; }
 .social-links { display: flex; gap: 1rem; }
-.social-link { width: 38px; height: 38px; background: var(--surface-light); border: 1px solid rgba(0, 245, 212, 0.2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: var(--text); text-decoration: none; transition: all 0.3s ease; }
+.social-link { width: 38px; height: 38px; background: var(--surface-light); border: 1px solid rgba(0, 245, 212, 0.2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: var(--on-dark); text-decoration: none; transition: all 0.3s ease; font-size: 1.1rem; font-weight: 700; }
 .social-link:hover { background: var(--accent); color: var(--primary); transform: translateY(-3px); }
 .footer-section h4 { font-size: 1.1rem; margin-bottom: 0.75rem; color: var(--text); }
 .footer-links { list-style: none; }
